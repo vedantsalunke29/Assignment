@@ -29,7 +29,6 @@ This project is a simple user authentication API built using Node.js, Express, a
 
    ```bash
    git clone https://github.com/vedantsalunke29/Assignment.git
-   cd backend
    
    Install dependencies:
    npm install
